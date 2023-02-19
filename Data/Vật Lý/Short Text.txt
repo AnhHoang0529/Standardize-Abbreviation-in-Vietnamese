@@ -1,0 +1,100 @@
+VL là môn KHTN có đối tượng nghiên cứu tập trung vào các dạng vận động của v/chất (chất, trường), NL.
+Khi sd dụng cụ đo để đo các đại lg VL luôn có sự sai lệch do đđ và cấu tạo của dụng cụ gây ra.
+Khi vật c/động thì vtrí của vật so với vật được chọn làm mốc t/đổi theo tgian.
+Vt tb là đại lg được xđ bằng thương số của độ dịch chuyển và tgian dịch chuyển để xđ độ nhanh, chậm của cđ theo một hướng xđ.
+Để đo tốc độ cđ của một vật có thể đo tgian và quãng đường cđ của vật đó.
+C/động thẳng có q/đạo c/động là đt.
+Đại lg a cho biết sự t/đổi nhanh hay chậm của vt đc gọi là g/tốc c/động (g/tốc).
+Cđ thẳng bđổi đều là cđ thẳng mà vt có độ lớn tăng hoặc giảm đều theo tgian.
+Lực cản càng nhỏ so vs trọng lực t/dụng lên vật thì vật sẽ rơi càng nhanh và ngc lại.
+Cđ ném ngang là cđ có vt bđầu theo phương nằm ngang và cđ dưới tdụng của trọng lực.
+Vật đứng yên dưới tdụng của nhiều lực, khi đó TH các lực tdụng lên vật bằng 0.
+Nếu một vật k chịu t/dụng của lực nào hoặc chịu tdụng của các lực có hợp lực bằng 0, thì vật đang đứng yên sẽ tiếp tục đứng yên, đang CĐ sẽ tiếp tục CĐ thẳng đều.
+Gtốc của một vật cùng hướng vs lực td lên vật.
+Các lực hút hoặc đẩy luôn xh thành từng cặp giữa hai vật.
+Trọng lực là lực hấp dẫn do TĐ t/dụng lên vật gây ra cho vật gtốc rơi tự do.
+Lực ma sát nghỉ là lực ma sát td lên mặt t/xúc của vật, khi vật có x/hướng cđ nhưng chưa cđ.
+Mọi vật cđ trg chất lưu luôn chịu td bởi lực cản của chất lưu.
+Biểu diễn các lực td lên vật, trg đó làm rõ phương, chiều và điểm đặt của từng lực.
+Moment lực đối vs trục quay là đại lg đ/trưng cho td làm quay của lực và đc đo bằng tích của lực vs cánh tay đòn của nó.
+NL ko tự sinh ra hoặc tự mất đi mà chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.
+Đại lg đ/trưng cho k/năng t/hiện công nhanh hay chậm của ng hoặc thiết bị sinh công, đc gọi là cg suất hay tđộ sinh công.
+Động năng là NL vật có được do CĐ.
+Độ lớn của thế năng trọng trường phụ thc vào vc chọn mốc tính đcao.
+Bóng đèn sợi đốt có khg 70% NLHP chuyển thành nhiệt năng.
+Đại lg đ/trưng cho knăng truyền cđ của một vật khi tg tác với vật khác gọi là động lượng của vật.
+Động lượng là một đại lg vectơ có cùng hướng với vtốc của vật.
+Một hệ nhiều vật đc gọi là hệ kín khi ko có ngoại lực td lên hệ hoặc nếu có thì các lực ấy cân bằng nhau.
+Để xđ vtrí của vật cđ tròn ta có thể dựa vào qđ đi s (đdài cung tròn) hoặc độ dịch chuyển góc tính từ vtrí bđầu.
+CĐ tròn đều là CĐ theo qđạo tròn có tđ ko tđổi.
+Lực (hay hợp lực) t/dụng lên vật c/động tròn đều hướng vào tâm qđạo gọi là lực hướng tâm.
+Khi có ngoại lực t/dụng, vật rắn t/đổi hdạng và KT, ta nói vật rắn bị biến dạng.
+KL riêng của một chất là KL của một đv thể tích chất đó.
+Đ/tích điểm là một vật tích điện có KT rất nhỏ so với k/c tới điểm mà ta xét.
+Thuyết dựa vào sự cư trú và di chuyển của các electron để g/thích các HT điện và các t/c điện của các vật gọi là thuyết electron.
+Đường sức điện là đường mà t/tuyến tại mỗi điểm của nó là giá của vecto CĐ ĐT tại điểm đó.
+Thế năng của điện tích đặt tại một điểm trg ĐT đ/trưng cho kn sinh công của ĐT khi đặt điện tích tại điểm đó.
+HĐT giữa hai điểm M, N trong ĐT là đại lg đtrưng cho knăng sinh công của ĐT trg sự di chuyển của một điện tích từ M đến N.
+CĐDĐ là đại lg đ/trưng cho td mạnh, yếu của dđiện.
+Csuất điện của một đoạn mạch là csuất tiêu thụ điện năng của đoạn mạch đó và có trị số bằng điện năng mà đoạn mạch tiêu thụ trg một đv tgian, hoặc bằng tích của HĐT giữa hai đầu đoạn mạch và CĐDĐ chạy qua đoạn mạch đó.
+CĐDĐ chạy trong mạch kín TLT với suất điện động của nguồn điện và TLN với điện trở toàn phần của mạch đó.
+Đoạn mạch có chứa nguồn điện (nguồn phát), dđiện có chiều đi ra từ cực dương và đi tới cực âm.
+Dđiện trong KL là dòng chuyển dời có hướng của các electron tự do dưới TD của ĐT.
+Dđiện trong chất điện phân là dòng chuyển dời có hướng của các ion trg ĐT.
+Dđiện trong chất khí là dòng chuyển dời có hướng của các ion dương theo chiều ĐT và các ion âm ngc chiều ĐT.
+Chân ko là môi trg đã đc lấy đi các ptử khí.
+Chất bán dẫn là vliệu trg gian giữa chất cách điện và chất dẫn điện.
+Từ trường là một dạng v/chất tồn tại trong ko gian mà biểu hiện cụ thể là sự xhiện của lực từ t/dụng lên một dđiện hay một nam châm đặt trg đó.
+Từ trường đ/hướng cho các nam châm nhỏ.
+Lực từ td lên một đoạn dây dẫn mang dđiện đặt trg từ trường đều có phương vg góc với các ĐST và vg góc với đoạn dây dẫn, có độ lớn phụ thc vào từ trường và CĐDĐ chạy qua dây dẫn.
+Cảm ứng từ tại một điểm trong từ trường là đại lg đtrưng cho độ mạnh yếu của từ trường và đc đo bằng thương số giữa lực từ td lên một đoạn dây dẫn mang dđiện đặt vg góc với đường cảm ứng từ tại điểm đó và tích của CĐDĐ và cdài đoạn dây dẫn đó.
+Trg ống dây, các ĐST là ñ đt // cùng chiều và cách đều nhau.
+Đặc biệt, từ thông là đại lg đại số (có thể dương, âm hoặc bằng 0).
+Khi từ thông biến thiên qua một mạch điện kín thì trg mạch x/hiện dđiện cảm ứng.
+Dđiện cảm ứng x/hiện trg mạch kín có chiều sao cho từ trường cảm ứng có t/dụng chống lại sự biến thiên từ thông bđầu qua mạch.
+Suất điện động cảm ứng là suất điện động sinh ra dđiện cảm ứng trong mạch kín.
+HT tự cảm là HT cảm ứng điện từ x/ra trg một mạch có dđiện mà sự biến thiên từ thông qua mạch đc gây ra bởi sự biến thiên của CĐDĐ trg mạch.
+KXAS là HT lệch phương (gãy) của các tia sáng khi truyền xiên góc qua mặt phân cách giữa hai MT trong suốt khác nhau.
+Tia KX nằm trong mp tới (tạo bởi tia tới và ptuyến) và ở phía bên kia ptuyến so vs tia tới.
+Á/s truyền đi theo đường nào thì cũng truyền ngc lại theo đường đó.
+PX toàn phần là HT PX toàn bộ tia sáng tới, xảy ra ở mặt phân cách giữa hai mt trong suốt.
+Lăng kính là một khối chất trg suốt, đồng chất (thủy tinh, nhựa…), thường có dạng lăng trụ TG.
+Thấu kính là một khối chất trg suốt, g/hạn bởi hai mặt cong hoặc bởi một mặt cong và một mp.
+Vtrí của tiêu điểm ảnh hoặc tiêu điểm vật phụ thc vào chiều truyền á/s.
+Mắt là một hệ gồm nhiều mt trong suốt tiếp giáp nhau bằng các mặt cầu.
+Thể thủy tinh là khối chất đặc trg suốt có h/dạng thấu kính hai mặt lồi.
+Dđộng tuần hoàn là dđộng cơ mà sau những khoảng tgian bằng nhau vật trở lại vtrí cũ theo hướng cũ.
+Con lắc lò xo gồm một vật nhỏ có KL m gắn vào đầu một lò xo có độ cứng k và KL ko đáng kể.
+HT cộng hưởng là HT biên độ dđộng cưỡng bức tăng đến gtrị cực đại khi tần số của lực cưỡng bức tiến đến bằng tần số riêng của hệ dđộng.
+Sóng cơ là sự lan truyền truyền dđộng cơ (NL, trg thái dđộng) trong một mt.
+HT hai sóng gặp nhau tạo nên các gợn sóng ổn định gọi là HT giao thoa của hai sóng.
+Khi sóng truyền đến vật cản Q sẽ px lại ltục (như một nguồn phát sóng mới).
+Âm chỉ truyền qua đc các mt rắn, lỏng, khí, k truyền được trong chân ko.
+Dđiện xoay chiều là dđiện có cđộ là hàm số sin hoặc cos của tgian.
+Hệ số csuất t/hiện tỷ lệ giữa k/năng cung cấp csuất điện cho mạch (UI) và csuất điện thực tế tiêu thụ trg mạch.
+Điện năng đc truyền từ nhà máy phát điện đến nơi tiêu thụ nhờ đường dây có điện trở.
+Tuy nhiên khi tđộ của khung dây tăng lên thì tđộ biến thiên từ thông giảm đi, dđiện trong khung dây giảm đi momen ngẫu lực lại giảm đi cứ thế cho đến khi momen lực từ c/bằng với momen lực cản thì khung dây sẽ quay đều với tđộ góc nhỏ hơn tđộ góc của nam châm.
+Mạch dđộng là mạch có một cuộn cảm có độ tự cảm L(H) mắc với một tụ điện có điện dung C(F) thành một mạch điện kín.
+ĐT và từ trường cùng tồn tại, cùng b/đổi trg một trường thống nhất là điện từ trường.
+SĐT lan truyền được trong mt rắn, lỏng, khí và cả chân ko.
+Sóng vô tuyến có thể truyền đi xa, có thể lan truyền khắp nơi trg khí quyển, chỉ cần HT trạm phát thu mà ko cần cáp truyền.
+Để sóng mang truyền tải được thông tin của âm tần, ta trộn sóng âm tần với sóng mang, gọi là biến điệu SĐT.
+Á/s mặt trời khi đi qua lăng kính ko ñ bị lệch về phía đáy do KX, mà còn bị trải dài thành một dải màu sặc sỡ.
+Á/s đơn sắc là á/s có một màu nhất định và ko bị tán sắc mà chỉ bị lệch khi đi qua lăng kính.
+HT nhiễu xạ là HT á/s truyền sai lệch so với sự truyền thẳng khi á/s gặp vật cản.
+Ñ vạch tối là chỗ hai sóng á/s triệt tiêu lẫn nhau, ñ vạch sáng là chỗ hai sóng á/s tăng cường lẫn nhau.
+Quang phổ vạch hấp thụ cũng đ/trưng cho từng ngtố.
+Quang phổ ltục là quang phổ gồm n dải màu từ đỏ đến tím, nối liền nhau một cách ltục.
+HT quang điện chỉ xra khi á/s k/thích chiếu vào KL có bc sóng nhỏ hơn hoặc bằng bc sóng ghạn quang điện.
+HT quang điện trg đc ứng dụng trg quang điện trở và pin quang điện.
+Có một số chất (rắn, lỏng, khí) khi h/thụ NL dưới một dạng NL nào đó, thì có knăng phát ra các bức xạ điện từ trg miền á/s nhìn thấy.
+Á/s phát quang có bc sóng dài hơn bc sóng của ánh sáng k/thích.
+Để tiện tính toán KL hạt nhân, người ta SD đv KL ngtử (đv Cacbon).
+Các nuclôn trg hạt nhân hút nhau bằng một lực rất mạnh, gọi là lực hạt nhân, có t/dụng lk các nuclôn tạo nên hạt nhân bền vững.
+KL của hạt nhân luôn nhỏ hơn tổng KL của các nuclôn tạo thành hạt nhân đó.
+NL lk riêng là đại lg đ/trưng cho độ bền vững của hạt nhân, NL lk riêng càng lớn hạt nhân càng bền vững.
+Trg quá trình phân rã, số hạt nhân phóng xạ giảm theo tgian theo đ/luật h/số mũ.
+Tia gamma là SĐT có bc sóng rất ngắn.
+P/ứng nhiệt hạch là p/ứng trg đó hai hạt nhân nhẹ tổng hợp lại thành một hạt nhân nặng hơn.
+Dđộng cơ là CĐ qua lại quanh một vtrí cb.
+Đ/thị của dđộng điều hòa đều là một đường hình sin.

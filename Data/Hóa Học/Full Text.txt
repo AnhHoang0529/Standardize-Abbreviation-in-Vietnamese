@@ -1,0 +1,100 @@
+Hạt nhân ở tâm của nguyên tử, chứa các proton mang điện tích dương và các neutron không mang điện.
+Vỏ nguyên tử chứa các electron mang điện tích âm, chuyển động rất nhanh xung quanh hạt nhân.
+Trong nguyên tử số proton bằng số electron nên nguyên tử trung hòa về điện.
+Khối lượng của electron rất nhỏ, không đáng kể nên khối lượng nguyên tử tập trung hầu hết ở hạt nhân.
+Bảng tuần hoàn chứa 118 nguyên tố hóa học được sắp xếp theo các nguyên tắc sau.
+Mỗi nguyên tố hóa học được xếp vào một ô trong bảng tuần hoàn các nguyên tố hóa học, gọi là ô nguyên tố.
+Chu kì là dãy các nguyên tố mà nguyên tử của chúng có cùng số lớp electron, được xếp theo chiều điện tích hạt nhân tăng dần.
+Nhóm nguyên tố gồm các nguyên tố mà nguyên tử của chúng có cấu hình electron tương tự nhau, do đó có tính chất hóa học gần giống nhau và được xếp thành một cột.
+Có thể dự đoán được tính chất hóa học của các nguyên tố khi biết vị trí của nó trong bảng tuần hoàn các nguyên tố hóa học hay cấu hình electron của nó (và ngược lại).
+Liên kết cộng hóa trị là liên kết hóa học được hình thành giữa hai nguyên tử bằng một hay nhiều cặp electron chung.
+Liên kết ion là liên kết hóa học được hình thành giữa hai ion mang điện tích trái dấu (tồn tại trong khối tinh thể).
+Liên kết hydrogen và tương tác van der Waals đều là liên kết giữa các phân tử (hay nguyên tử) trung hòa hút nhau bởi bản chất tĩnh điện giữa các lưỡng cực.
+Liên kết hydrogen và tương tác van der Waals đều làm tăng nhiệt độ sôi, nhiệt độ nóng chảy của các chất.
+Chất khử là chất nhường electron, chất oxi hóa là chất nhận electron.
+Quá trình oxi hóa là quá trình chất khử nhường electron, quá trình khử là quá trình chất oxi hóa nhận electron.
+Phản ứng oxi hóa – khử là phản ứng hóa học xảy ra đồng thời quá trình nhường và quá trình nhận electron.
+Phản ứng tỏa nhiệt là phản ứng giải phóng năng lượng dưới dạng nhiệt.
+Phản ứng thu nhiệt là phản ứng hấp thụ năng lượng dưới dạng nhiệt.
+Tốc độ phản ứng của một phản ứng hóa học là đại lượng đặc trưng cho sự thay đổi nồng độ của chất phản ứng hoặc sản phẩm phản ứng trong một đơn vị thời gian.
+Tốc độ trung bình của phản ứng là tốc độ tính trung bình trong một khoảng thời gian phản ứng.
+Tốc độ phản ứng được tính dựa theo thay đổi nồng độ của một chất bất kì trong phản ứng.
+Khi nồng độ các chất phản ứng tăng lên, số va chạm giữa các hạt tăng lên, làm số va chạm hiệu quả cũng tăng lên và dẫn tới tốc độ phản ứng tăng.
+Việc tăng áp suất hỗn hợp khí cũng tương tự như tăng nồng độ, sẽ làm tốc độ phản ứng tăng.
+Khi tăng nhiệt độ, các hạt (phân tử, nguyên tử hoặc ion) sẽ chuyển động nhanh hơn, động năng cao hơn.
+Khi đó, số va chạm hiệu quả giữa các hạt tăng lên, dẫn đến tốc độ phản ứng tăng.
+Chất xúc tác làm tăng tốc độ phản ứng.
+Nhóm VIIA trong bảng tuần hoàn các nguyên tố hóa học còn gọi là nhóm halogen, gồm 6 nguyên tố: fluorine (F); chlorine (Cl); bromine (Br); iodine (I); astatine (At) và tennessine (Ts).
+Bốn nguyên tố F, Cl, Br, I tồn tại trong tự nhiên; còn At và Ts là các nguyên tố phóng xạ.
+Các nguyên tử halogen có 7 electron ở lớp ngoài cùng, dễ nhận thêm 1 electron để đạt được cấu hình electron bền vững của khí hiếm gần nhất.
+Số oxi hóa đặc trưng của các halogen trong hợp chất là -1.
+Halogen là các phi kim điển hình, có tính oxi hóa mạnh, tính oxi hóa giảm dần từ fluorine đến iodine.
+Phân tử hydrogen halide (HX) gồm một liên kết cộng hóa trị.
+Các phân tử HX là phân tử phân cực.
+Hầu hết các muối halide đều dễ tan trong nước, trừ một số muối không tan, ví dụ như silver chloride, silver bromide, silver iodide và một số muối ít tan như lead chloride, lead bromide.
+Sự điện li là quá trình phân li các chất trong nước ra ion.
+Các axit, bazo, muối khi tan trong nước phân li ra các ion làm cho dung dịch của chúng có tính dẫn điện.
+Vì nồng độ của nước được coi như hằng số nên ta có thể bỏ qua nồng độ của nước trong biểu thức xác định hằng số phân li axit, hay bazơ.
+Nước là chất điện li rất yếu.
+Các nguyên tố nhóm Nitơ vừa có tính oxi hoá vừa có tính khử.
+P khá hoạt động về mặt hóa học nên không gặp P ở dạng tự do trong tự nhiên.
+Phân đạm là những hợp chất cung cấp Nitơ cho cây trồng.
+Khi đốt nóng, photpho cháy trong không khí tạo ra các oxit của photpho.
+Khi cho clo đi qua P nóng chảy, sẽ thu được các hợp chất photpho clorua.
+Kim cương là chất tinh thể trong suốt, không màu, không dẫn điện, dẫn nhiệt kém.
+Kim cương có cấu trúc tinh thể nguyên tử và cứng nhất trong tất cả các chất.
+Silic là nguyên tố phổ biến thứ hai sau oxi, chiếm gần 29,5% khối lượng vỏ Trái Đất.
+Muối trung hoà không tan trong nước (trừ cacbonat của kim loại kiềm và amoni).
+Hợp chất hữu cơ là các hợp chất của C trừ oxit của C, muối cacbua, muối cacbonat, muối xianua.
+Hoá học hữu cơ là ngành hóa học chuyên nghiên cứu các hợp chất hữu cơ.
+Hợp chất hữu cơ được chia thành hidrocacbon và dẫn xuất hidrocacbon.
+Ankan không phân nhánh là ankan chỉ chứa nguyên tử C bậc I hoặc bậc II.
+Ở phân tử xicloankan, các nguyên tử cacbon không cùng nằm trên cùng một mặt phẳng (trừ xiclopropan).
+Xicloankan là những hidrocacbon no mạch vòng (gồm mono xicloankan (đơn vòng) và poli xicloankan (đa vòng)).
+Tên thông thường: xuất phát từ tên ankan đuôi an đổi thành ilen.
+Ankin là những hidrocacbon mạch hở có một liên kết ba trong phân tử.
+Các tính chất hóa học gồm phản ứng cộng, phản ứng đime và trime hóa, phản ứng thế bằng ion kim loại và phản ứng oxi hóa.
+Dầu mỏ là một hỗn hợp lỏng, sánh, màu nâu đen, có mùi đặc trưng, nhẹ hơn nước và không tan trong nước.
+Để phân tách các chất có nhiệt độ sôi khác nhau không nhiều, người ta dùng phương pháp chưng cất phân đoạn.
+Khi có sẵn nhóm thế ở nhân benzen, sản phẩm thế được định hướng theo quy tắc sau.
+Phản ứng đặc trưng là phản ứng cộng.
+Chế biến dầu mỏ bao gồm chưng cất dầu mỏ và chế biến bằng phương pháp hóa học.
+Tính axit (có lực axit mạnh hơn ancol) không làm đổi màu quỳ tím.
+Các ankyl halogenua không phản ứng với nước nhưng bị thủy phân khi đun nóng với dung dịch kiềm tạo ancol.
+Khi đun với dung dịch kiềm trong ancol, dẫn xuất halogen bị tách HX tạo thành liên kết bội.
+Nguyên tử hiđro ở bên cạnh nhóm cacbonyl dễ tham gia phản ứng.
+Axit cacboxylic là hợp chất hữu cơ mà phân tử có nhóm cacboxyl (-COOH) liên kết trực tiếp với nguyên tử cacbon hoặc nguyên tử hiđro.
+Ở điều kiện thường các axit cacboxylic đều là những chất lỏng hoặc rắn.
+Những este có khối lượng phân tử rất lớn có thể ở trạng thái rắn (như mỡ động vật, sáp ong …).
+Lipit là những hợp chất hữu cơ có trong tế bào sống, không hòa tan trong nước nhưng tan trong các dung môi hữu cơ không phân cực như ete, cloroform, xăng dầu.
+Chất giặt rửa là những chất khi dùng cùng với nước có tác dụng làm sạch các chất bẩn bám trên vật rắn mà không gây ra phản ứng hóa học với các chất đó.
+Oxi hóa ankan, aren ở nhiệt độ cao với xúc tác thích hợp thu được dẫn xuất chứa oxi.
+Có vị ngọt nhưng không ngọt bằng đường mía, Glucozơ có trong hầu hết các bộ phận của cây như lá, hoa, rễ, … và nhất là trong quả chín.
+Saccarozơ là chất kết tinh, không màu, dễ tan trong nước, ngọt hơn glucozơ.
+Tinh bột trong các loại lương thực là một trong những thức ăn cơ bản của con người.
+Xenlulozơ là thành phần chính tạo ra lớp màng tế bào thực vật, bộ khung của cây cối.
+Xenlulozơ không là đồng phân của tinh bột.
+Với các amin bậc 2 và 3, chọn mạch dài nhất chứa N làm mạch chính.
+Nhiệt độ nóng chảy cao, dễ tan trong nước vì amino axit tồn tại ở dạng ion lưỡng cực.
+Các amino axit là các chất rắn không màu, vị hơi ngọt, dễ tan trong nước vì chúng tồn tại ở dạng ion lưỡng cực (muối nội phân tử), nhiệt độ nóng chảy cao (vì là hợp chất ion).
+Protein là những polipeptit cao phân tử có phân tử khối từ vài chục nghìn đến vài triệu.
+Polime là những hợp chất có phân tử khối rất lớn do nhiều đơn vị nhỏ (gọi là mắt xích) liên kết với nhau.
+Chỉ số n gọi là hệ số polime hóa hay độ polime hóa n càng lớn thì phân tử khối của polime càng cao.
+Tính dẻo là tính bị biến dạng khi chịu tác dụng của nhiệt, áp lực bên ngoài và vẫn giữ nguyên được sự biến dạng đó khi thôi tác dụng.
+Nhựa rezol nóng chảy và để nguội thu được nhựa có cấu trúc mạng lưới không gian.
+PVC là chất vô định hình, cách điện tốt, bền với axit, dùng làm vật liệu điện, ống dẫn nước, vải che mưa, da giả,…
+Liên kết kim loại là liên kết hóa học hình thành bởi lực hút tĩnh điện giữa ion dương kim loại nằm ở các nút mạng tinh thể và các electron tự do di chuyển trong toàn bộ mạng lưới tinh thể kim loại.
+Hợp kim là vật liệu kim loại có chứa một kim loại cơ bản và một số kim loại hoặc phi kim khác.
+Tính chất vật lí và tính chất cơ học của hợp kim khác nhiều so với tính chất của các đơn chất.
+Sự điện phân là quá trình oxi hóa – khử xảy ra ở bề mặt các điện cực khi có dòng điện một chiều đi qua chất điện li nóng chảy hoặc dung dịch chất điện li.
+Nếu trong dung dịch có nhiều cation thì cation nào có tính oxi hóa mạnh hơn sẽ bị khử trước.
+Các kim loại kiềm đứng đầu mỗi chu kì (trừ chu kì 1).
+Kim loại kiềm thổ cứng hơn kim loại kiềm, nhưng nhìn chung kim loại kiềm thổ có độ cứng thấp; độ cứng giảm dần từ Be đến Ba.
+Nhôm là kim loại nhẹ, màu trắng bạc.
+Nhôm có nhiều ưu điểm nhưng vì nó khá mềm lại kém dai nên người ta thường chế tạo hợp kim nhôm với magie, đồng, silic… để tăng độ bền.
+Fe có cấu tạo mạng tinh thể lập phương tâm diện hoặc tâm khối tuỳ vào nhiệt độ.
+Dung dịch muối sắt (II) điều chế được cần dùng ngay, vì trong không khí muối sắt (II) sẽ chuyển dần thành muối sắt (III).
+Đồng khử được ion của những kim loại đứng sau nó trong dãy điện hóa ở trong dung dịch muối kim loại tự do.
+Để nhận biết 1 ion trong dung dịch, người ta thêm vào dung dịch 1 thuốc thử tạo với ion đó 1 sản phẩm đặc trưng như: chất kết tủa, hợp chất có màu, chất khí, sủi bọt,…
+Đốt muối natri rắn hoặc các dung dịch muối bằng ngọn lửa không màu thì ngọn lửa nhuốm màu vàng tươi.
+Có thể dựa vào tính chất vật lý hoặc tính chất hóa học đặc trưng của nó như màu, mùi, khả năng tạo kết tủa với các chất khác.

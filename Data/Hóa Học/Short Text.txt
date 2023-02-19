@@ -1,0 +1,100 @@
+Hạt nhân ở tâm của ngtử, chứa các proton mang đt dương và các neutron ko mang điện.
+Vỏ ngtử chứa các electron mang đt âm, cđ rất nhanh xq hạt nhân.
+Trg ngtử số proton bằng số electron nên ngtử trung hòa về điện.
+KL của electron rất nhỏ, ko đáng kể nên kl ngtử tập trung hầu hết ở hạt nhân.
+Bảng tuần hoàn chứa 118 ngtố HH đc sxếp theo các ngtắc sau.
+Mỗi ngtố HH đc xếp vào một ô trg bảng tuần hoàn các ngtố HH, gọi là ô ngtố.
+CK là dãy các ngtố mà ngtử của chúng có cùng số lớp electron, được xếp theo chiều đt hạt nhân tăng dần.
+Nhóm ngtố gồm các ngtố mà ngtử của chúng có c/hình electron tương tự nhau, do đó có TCHH gần giống nhau và được xếp thành một cột.
+Có thể dự đoán đc TCHH của các ngtố khi biết vtrí của nó trg bảng tuần hoàn các ngtố HH hay c/hình electron của nó (và ngc lại).
+Lkết cộng htrị là lkết HH đc hthành giữa hai ngtử bằng một hay nhiều cặp electron chung.
+Lkết ion là lkết HH đc hthành giữa hai ion mang đt trái dấu (tồn tại trg khối tinh thể).
+Lkết hydrogen và tương tác van der Waals đều là lkết giữa các ptử (hay ngtử) trung hòa hút nhau bởi bchất tĩnh điện giữa các lưỡng cực.
+Lkết hydrogen và tương tác van der Waals đều làm tăng nđộ sôi, nđộ nóng chảy của các chất.
+Chất khử là chất nhường electron, chất oxh là chất nhận electron.
+Qtrình oxh là qtrình chất khử nhường electron, qtrình khử là quá trình chất oxh nhận electron.
+P/ứng oxh – khử là p/ứng HH xra đồng thời qtrình nhường và qtrình nhận electron.
+P/ứng tỏa nhiệt là p/ứng gphóng NL dưới dạng nhiệt.
+P/ứng thu nhiệt là p/ứng hthụ NL dưới dạng nhiệt.
+Tđộ p/ứng của một p/ứng HH là đại lg đ/trưng cho sự tđổi nồng độ của chất p/ứng hoặc sp p/ứng trg một đv tgian.
+Tđộ TB của p/ứng là tđộ tính TB trong một khoảng tgian p/ứng.
+Tđộ p/ứng đc tính dựa theo tđổi nồng độ của một chất bất kì trong p/ứng.
+Khi nồng độ các chất p/ứng tăng lên, số va chạm giữa các hạt tăng lên, làm số va chạm hquả cũng tăng lên và dẫn tới tđộ p/ứng tăng.
+Việc tăng áp suất hh khí cũng tương tự như tăng nồng độ, sẽ làm tđộ p/ứng tăng.
+Khi tăng nhiệt độ, các hạt (ptử, ngtử hoặc ion) sẽ cđ nhanh hơn, động năng cao hơn.
+Khi đó, số va chạm hq giữa các hạt tăng lên, dẫn đến tđộ p/ứng tăng.
+Chất xúc tác làm tăng tđộ p/ứng.
+Nhóm VIIA trg bảng tuần hoàn các ngtố HH còn gọi là nhóm halogen, gồm 6 ngtố: fluorine (F); chlorine (Cl); bromine (Br); iodine (I); astatine (At) và tennessine (Ts).
+Bốn ngtố F, Cl, Br, I tồn tại trg tự nhiên; còn At và Ts là các ngtố phóng xạ.
+Các ngtử halogen có 7 electron ở lớp ngoài cùng, dễ nhận thêm 1 electron để đạt đc c/hình electron bvững của khí hiếm gần nhất.
+Số oxh đ/trưng của các halogen trg hchất là -1.
+Halogen là các phi kim điển hình, có tính oxh mạnh, tính oxh giảm dần từ fluorine đến iodine.
+Ptử hydrogen halide (HX) gồm một lkết cộng htrị.
+Các ptử HX là ptử phân cực.
+Hầu hết các muối halide đều dễ tan trg nc, trừ một số muối ko tan, vd như silver chloride, silver bromide, silver iodide và một số muối ít tan như lead chloride, lead bromide.
+Sự điện li là qtrình phân li các chất trg nc ra ion.
+Các axit, bazo, muối khi tan trg nc phân li ra các ion làm cho dd của chúng có tính dẫn điện.
+Vì nồng độ của nc đc coi như hằng số nên ta có thể bỏ qua nồng độ của nc trg BT xđ hằng số phân li axit, hay bazơ.
+Nc là chất điện li rất yếu.
+Các ngtố nhóm Nitơ vừa có tính oxh vừa có tính khử.
+P khá hđ về mặt HH nên ko gặp P ở dạng tự do trg tự nhiên.
+Phân đạm là ñ hchất cung cấp Nitơ cho cây trồng.
+Khi đốt nóng, photpho cháy trong kkhí tạo ra các oxit của photpho.
+Khi cho clo đi qua P nóng chảy, sẽ thu đc các hchất photpho clorua.
+Kim cương là chất tinh thể trg suốt, k màu, k dẫn điện, dẫn nhiệt kém.
+Kim cương có ctrúc tinh thể ngtử và cứng nhất trg tất cả các chất.
+Silic là ngtố pbiến thứ hai sau oxi, chiếm gần 29,5% KL vỏ TĐ.
+Muối trung hoà ko tan trg nc (trừ cacbonat của KL kiềm và amoni).
+HCHC là các hchất của C trừ oxit của C, muối cacbua, muối cacbonat, muối xianua.
+HH hữu cơ là ngành HH chuyên ngcứu các HCHC.
+HCHC đc chia thành hidrocacbon và dẫn xuất hidrocacbon.
+Ankan ko pnhánh là ankan chỉ chứa ngtử C bậc I hoặc bậc II.
+Ở ptử xicloankan, các ngtử cacbon ko cùng nằm trên cùng một mp (trừ xiclopropan).
+Xicloankan là ñ hidrocacbon no mạch vòng (gồm mono xicloankan (đơn vòng) và poli xicloankan (đa vòng)).
+Tên thông thường: xphát từ tên ankan đuôi an đổi thành ilen.
+Ankin là ñ hidrocacbon mạch hở có một lkết ba trg ptử.
+Các TCHH gồm p/ứng cộng, p/ứng đime và trime hóa, p/ứng thế bằng ion KL và p/ứng oxh.
+Dầu mỏ là một hh lỏng, sánh, màu nâu đen, có mùi đ/trưng, nhẹ hơn nc và ko tan trg nc.
+Để ptách các chất có nđộ sôi knhau ko nh, ngta dùng pp chưng cất phân đoạn.
+Khi có sẵn nhóm thế ở nhân benzen, sp thế được đ/hướng theo qtắc sau.
+P/ứng đ/trưng là p/ứng cộng.
+Cbiến dầu mỏ bao gồm chưng cất dầu mỏ và chế biến bằng pp HH.
+Tính axit (có lực axit mạnh hơn ancol) ko làm đổi màu quỳ tím.
+Các ankyl halogenua k p/ứng vs nc nhưng bị thủy phân khi đun nóng với dd kiềm tạo ancol.
+Khi đun với dd kiềm trong ancol, dẫn xuất halogen bị tách HX tạo thành lkết bội.
+Ngtử hiđro ở bên cạnh nhóm cacbonyl dễ tgia p/ứng.
+Axit cacboxylic là HCHC mà ptử có nhóm cacboxyl (-COOH) lkết t/tiếp vs ngtử cacbon hoặc ngtử hiđro.
+Ở đk thường các axit cacboxylic đều là ñ chất lỏng hoặc rắn.
+Ñ este có KLPT rất lớn có thể ở t/thái rắn (như mỡ động vật, sáp ong …).
+Lipit là ñ HCHC có trg TB sống, ko hòa tan trg nc nhưng tan trg các dung môi hữu cơ ko phân cực như ete, cloroform, xăng dầu.
+Chất giặt rửa là ñ chất khi dùng cùng với nc có td làm sạch các chất bẩn bám trên vật rắn mà ko gây ra p/ứng HH với các chất đó.
+Oxh ankan, aren ở nđộ cao với xúc tác t/hợp thu đc dẫn xuất chứa oxi.
+Có vị ngọt nhưng k ngọt bằng đường mía, Glucozơ có trg hầu hết các bp của cây như lá, hoa, rễ, … và nhất là trg quả chín.
+Saccarozơ là chất kết tinh, k màu, dễ tan trg nc, ngọt hơn glucozơ.
+Tinh bột trg các loại lương thực là một trg ñ thức ăn cơ bản của con ng.
+Xenlulozơ là tphần chính tạo ra lớp màng TB thực vật, bộ khung của cây cối.
+Xenlulozơ ko là đồng phân của tinh bột.
+Vs các amin bậc 2 và 3, chọn mạch dài nhất chứa N làm mạch chính.
+Nđộ nóng chảy cao, dễ tan trg nc vì amino axit tồn tại ở dạng ion lưỡng cực.
+Các amino axit là các chất rắn k màu, vị hơi ngọt, dễ tan trg nc vì chúng tồn tại ở dạng ion lưỡng cực (muối nội ptử), nđộ nóng chảy cao (vì là hchất ion).
+Protein là ñ polipeptit cao ptử có PTK từ vài chục nghìn đến vài triệu.
+Polime là ñ hchất có PTK rất lớn do nh đv nhỏ (gọi là mắt xích) lkết vs nhau.
+Chỉ số n gọi là hsố polime hóa hay độ polime hóa n càng lớn thì PTK của polime càng cao.
+Tính dẻo là tính bị biến dạng khi chịu td của nhiệt, áp lực bên ngoài và vẫn giữ nguyên đc sự biến dạng đó khi thôi td.
+Nhựa rezol nóng chảy và để nguội thu đc nhựa có ctrúc mạng lưới kgian.
+PVC là chất vô đ/hình, cách điện tốt, bền với axit, dùng làm vliệu điện, ống dẫn nc, vải che mưa, da giả,…
+Lkết KL là lkết HH hthành bởi lực hút tĩnh điện giữa ion dương KL nằm ở các nút mạng tinh thể và các electron tự do di chuyển trg toàn bộ mạng lưới tinh thể KL.
+Hợp kim là vliệu KL có chứa một KL cơ bản và một số KL hoặc phi kim khác.
+TCVL và t/c cơ học của hợp kim khác nh so vs t/c của các đơn chất.
+Sự điện phân là qtrình oxh – khử xra ở bề mặt các điện cực khi có dđiện một chiều đi qua chất điện li nóng chảy hoặc dd chất điện li.
+Nếu trg dd có nh cation thì cation nào có tính oxh mạnh hơn sẽ bị khử trc.
+Các KL kiềm đứng đầu mỗi CK (trừ CK 1).
+KL kiềm thổ cứng hơn KL kiềm, nhưng nhìn chung KL kiềm thổ có độ cứng thấp; độ cứng giảm dần từ Be đến Ba.
+Nhôm là KL nhẹ, màu trắng bạc.
+Nhôm có nh ưu điểm nhưng vì nó khá mềm lại kém dai nên ngta thường ctạo hợp kim nhôm với magie, đồng, silic… để tăng độ bền.
+Fe có ctạo mạng tinh thể lập phương tâm diện hoặc tâm khối tuỳ vào nđộ.
+DD muối sắt (II) đ/chế đc cần dùng ngay, vì trong ko khí muối sắt (II) sẽ chuyển dần thành muối sắt (III).
+Đồng khử được ion của ñ KL đứng sau nó trong dãy điện hóa ở trong dd muối KL tự do.
+Để nhận biết 1 ion trong dd, ngta thêm vào dd 1 thuốc thử tạo với ion đó 1 sp đtrưng như: chất kết tủa, hchất có màu, chất khí, sủi bọt,…
+Đốt muối natri rắn hoặc các dd muối bằng ngọn lửa k màu thì ngọn lửa nhuốm màu vàng tươi
+Có thể dựa vào TCVL / TCHH đtrưng của nó như màu, mùi, knăng tạo kết tủa vs các chất khác.

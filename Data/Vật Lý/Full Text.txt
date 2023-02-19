@@ -1,0 +1,100 @@
+Vật lí là môn khoa học tự nhiên có đối tượng nghiên cứu tập trung vào các dạng vận động của vật chất (chất, trường), năng lượng.
+Khi sử dụng dụng cụ đo để đo các đại lượng vật lí luôn có sự sai lệch do đặc điểm và cấu tạo của dụng cụ gây ra.
+Khi vật chuyển động thì vị trí của vật so với vật được chọn làm mốc thay đổi theo thời gian.
+Vận tốc trung bình là đại lượng được xác định bằng thương số của độ dịch chuyển và thời gian dịch chuyển để xác định độ nhanh, chậm của chuyển động theo một hướng xác định.
+Để đo tốc độ chuyển động của một vật có thể đo thời gian và quãng đường chuyển động của vật đó.
+Chuyển động thẳng có quỹ đạo chuyển động là đường thẳng.
+Đại lượng a cho biết sự thay đổi nhanh hay chậm của vận tốc được gọi là gia tốc chuyển động (gọi tắt là gia tốc).
+Chuyển động thẳng biến đổi đều là chuyển động thẳng mà vận tốc có độ lớn tăng hoặc giảm đều theo thời gian.
+Lực cản càng nhỏ so với trọng lực tác dụng lên vật thì vật sẽ rơi càng nhanh và ngược lại.
+Chuyển động ném ngang là chuyển động có vận tốc ban đầu theo phương nằm ngang và chuyển động dưới tác dụng của trọng lực.
+Vật đứng yên dưới tác dụng của nhiều lực, khi đó tổng hợp các lực tác dụng lên vật bằng 0.
+Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thẳng đều.
+Gia tốc của một vật cùng hướng với lực tác dụng lên vật.
+Các lực hút hoặc đẩy luôn xuất hiện thành từng cặp giữa hai vật.
+Trọng lực là lực hấp dẫn do Trái Đất tác dụng lên vật gây ra cho vật gia tốc rơi tự do.
+Lực ma sát nghỉ là lực ma sát tác dụng lên mặt tiếp xúc của vật, khi vật có xu hướng chuyển động nhưng chưa chuyển động.
+Mọi vật chuyển động trong chất lưu luôn chịu tác dụng bởi lực cản của chất lưu.
+Biểu diễn các lực tác dụng lên vật, trong đó làm rõ phương, chiều và điểm đặt của từng lực.
+Moment lực đối với trục quay là đại lượng đặc trưng cho tác dụng làm quay của lực và được đo bằng tích của lực với cánh tay đòn của nó.
+Năng lượng không tự sinh ra hoặc tự mất đi mà chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.
+Đại lượng đặc trưng cho khả năng thực hiện công nhanh hay chậm của người hoặc thiết bị sinh công, được gọi là công suất hay tốc độ sinh công.
+Động năng là năng lượng vật có được do chuyển động.
+Độ lớn của thế năng trọng trường phụ thuộc vào việc chọn mốc tính độ cao.
+Bóng đèn sợi đốt có khoảng 70% năng lượng hao phí chuyển thành nhiệt năng.
+Đại lượng đặc trưng cho khả năng truyền chuyển động của một vật khi tương tác với vật khác gọi là động lượng của vật.
+Động lượng là một đại lượng vectơ có cùng hướng với vận tốc của vật.
+Một hệ nhiều vật được gọi là hệ kín khi không có ngoại lực tác dụng lên hệ hoặc nếu có thì các lực ấy cân bằng nhau.
+Để xác định vị trí của vật chuyển động tròn ta có thể dựa vào quãng đường đi s (độ dài cung tròn) hoặc độ dịch chuyển góc tính từ vị trí ban đầu.
+Chuyển động tròn đều là chuyển động theo quỹ đạo tròn có tốc độ không thay đổi.
+Lực (hay hợp lực) tác dụng lên vật chuyển động tròn đều hướng vào tâm quỹ đạo gọi là lực hướng tâm.
+Khi có ngoại lực tác dụng, vật rắn thay đổi hình dạng và kích thước, ta nói vật rắn bị biến dạng.
+Khối lượng riêng của một chất là khối lượng của một đơn vị thể tích chất đó.
+Điện tích điểm là một vật tích điện có kích thước rất nhỏ so với khoảng cách tới điểm mà ta xét.
+Thuyết dựa vào sự cư trú và di chuyển của các electron để giải thích các hiện tượng điện và các tính chất điện của các vật gọi là thuyết electron.
+Đường sức điện là đường mà tiếp tuyến tại mỗi điểm của nó là giá của vecto cường độ điện trường tại điểm đó.
+Thế năng của điện tích đặt tại một điểm trong điện trường đặc trưng cho khả năng sinh công của điện trường khi đặt điện tích tại điểm đó.
+Hiệu điện thế giữa hai điểm M, N trong điện trường là đại lượng đặc trưng cho khả năng sinh công của điện trường trong sự di chuyển của một điện tích từ M đến N.
+Cường độ dòng điện là đại lượng đặc trưng cho tác dụng mạnh, yếu của dòng điện.
+Công suất điện của một đoạn mạch là công suất tiêu thụ điện năng của đoạn mạch đó và có trị số bằng điện năng mà đoạn mạch tiêu thụ trong một đơn vị thời gian, hoặc bằng tích của hiệu điện thế giữa hai đầu đoạn mạch và cường độ dòng điện chạy qua đoạn mạch đó.
+Cường độ dòng điện chạy trong mạch kín tỉ lệ thuận với suất điện động của nguồn điện và tỉ lệ nghịch với điện trở toàn phần của mạch đó.
+Đoạn mạch có chứa nguồn điện (nguồn phát), dòng điện có chiều đi ra từ cực dương và đi tới cực âm.
+Dòng điện trong kim loại là dòng chuyển dời có hướng của các electron tự do dưới tác dụng của điện trường.
+Dòng điện trong chất điện phân là dòng chuyển dời có hướng của các ion trong điện trường.
+Dòng điện trong chất khí là dòng chuyển dời có hướng của các ion dương theo chiều điện trường và các ion âm ngược chiều điện trường.
+Chân không là môi trường đã được lấy đi các phân tử khí.
+Chất bán dẫn là vật liệu trung gian giữa chất cách điện và chất dẫn điện.
+Từ trường là một dạng vật chất tồn tại trong không gian mà biểu hiện cụ thể là sự xuất hiện của lực từ tác dụng lên một dòng điện hay một nam châm đặt trong đó.
+Từ trường định hướng cho các nam châm nhỏ.
+Lực từ tác dụng lên một đoạn dây dẫn mang dòng điện đặt trong từ trường đều có phương vuông góc với các đường sức từ và vuông góc với đoạn dây dẫn, có độ lớn phụ thuộc vào từ trường và cường độ dòng điện chạy qua dây dẫn.
+Cảm ứng từ tại một điểm trong từ trường là đại lượng đặc trưng cho độ mạnh yếu của từ trường và được đo bằng thương số giữa lực từ tác dụng lên một đoạn dây dẫn mang dòng điện đặt vuông góc với đường cảm ứng từ tại điểm đó và tích của cường độ dòng điện và chiều dài đoạn dây dẫn đó.
+Trong ống dây, các đường sức từ là những đường thẳng song song cùng chiều và cách đều nhau.
+Đặc biệt, từ thông là đại lượng đại số (có thể dương, âm hoặc bằng 0).
+Khi từ thông biến thiên qua một mạch điện kín thì trong mạch xuất hiện dòng điện cảm ứng.
+Dòng điện cảm ứng xuất hiện trong mạch kín có chiều sao cho từ trường cảm ứng có tác dụng chống lại sự biến thiên từ thông ban đầu qua mạch.
+Suất điện động cảm ứng là suất điện động sinh ra dòng điện cảm ứng trong mạch kín.
+Hiện tượng tự cảm là hiện tượng cảm ứng điện từ xảy ra trong một mạch có dòng điện mà sự biến thiên từ thông qua mạch được gây ra bởi sự biến thiên của cường độ dòng điện trong mạch.
+Khúc xạ ánh sáng là hiện tượng lệch phương (gãy) của các tia sáng khi truyền xiên góc qua mặt phân cách giữa hai môi trường trong suốt khác nhau.
+Tia khúc xạ nằm trong mặt phẳng tới (tạo bởi tia tới và pháp tuyến) và ở phía bên kia pháp tuyến so với tia tới.
+Ánh sáng truyền đi theo đường nào thì cũng truyền ngược lại theo đường đó.
+Phản xạ toàn phần là hiện tượng phản xạ toàn bộ tia sáng tới, xảy ra ở mặt phân cách giữa hai môi trường trong suốt.
+Lăng kính là một khối chất trong suốt, đồng chất (thủy tinh, nhựa…), thường có dạng lăng trụ tam giác.
+Thấu kính là một khối chất trong suốt, giới hạn bởi hai mặt cong hoặc bởi một mặt cong và một mặt phẳng.
+Vị trí của tiêu điểm ảnh hoặc tiêu điểm vật phụ thuộc vào chiều truyền ánh sáng.
+Mắt là một hệ gồm nhiều môi trường trong suốt tiếp giáp nhau bằng các mặt cầu.
+Thể thủy tinh là khối chất đặc trong suốt có hình dạng thấu kính hai mặt lồi.
+Dao động tuần hoàn là dao động cơ mà sau những khoảng thời gian bằng nhau vật trở lại vị trí cũ theo hướng cũ.
+Con lắc lò xo gồm một vật nhỏ có khối lượng m gắn vào đầu một lò xo có độ cứng k và khối lượng không đáng kể.
+Hiện tượng cộng hưởng là hiện tượng biên độ dao động cưỡng bức tăng đến giá trị cực đại khi tần số của lực cưỡng bức tiến đến bằng tần số riêng của hệ dao động.
+Sóng cơ là sự lan truyền truyền dao động cơ (năng lượng, trạng thái dao động) trong một môi trường.
+Hiện tượng hai sóng gặp nhau tạo nên các gợn sóng ổn định gọi là hiện tượng giao thoa của hai sóng.
+Khi sóng truyền đến vật cản Q sẽ phản xạ lại liên tục (như một nguồn phát sóng mới).
+Âm chỉ truyền qua được các môi trường rắn, lỏng, khí, không truyền được trong chân không.
+Dòng điện xoay chiều là dòng điện có cường độ là hàm số sin hoặc cos của thời gian.
+Hệ số công suất thể hiện tỷ lệ giữa khả năng cung cấp công suất điện cho mạch (UI) và công suất điện thực tế tiêu thụ trong mạch.
+Điện năng được truyền từ nhà máy phát điện đến nơi tiêu thụ nhờ đường dây có điện trở.
+Tuy nhiên khi tốc độ của khung dây tăng lên thì tốc độ biến thiên từ thông giảm đi, dòng điện trong khung dây giảm đi momen ngẫu lực lại giảm đi cứ thế cho đến khi momen lực từ cân bằng với momen lực cản thì khung dây sẽ quay đều với tốc độ góc nhỏ hơn tốc độ góc của nam châm.
+Mạch dao động là mạch có một cuộn cảm có độ tự cảm L(H) mắc với một tụ điện có điện dung C(F) thành một mạch điện kín.
+Điện trường và từ trường cùng tồn tại, cùng biến đổi trong một trường thống nhất là điện từ trường.
+Sóng điện từ lan truyền được trong môi trường rắn, lỏng, khí và cả chân không.
+Sóng vô tuyến có thể truyền đi xa, có thể lan truyền khắp nơi trong khí quyển, chỉ cần hệ thống trạm phát thu mà không cần cáp truyền.
+Để sóng mang truyền tải được thông tin của âm tần, ta trộn sóng âm tần với sóng mang, gọi là biến điệu sóng điện từ.
+Ánh sáng mặt trời khi đi qua lăng kính không những bị lệch về phía đáy do khúc xạ, mà còn bị trải dài thành một dải màu sặc sỡ.
+Ánh sáng đơn sắc là ánh sáng có một màu nhất định và không bị tán sắc mà chỉ bị lệch khi đi qua lăng kính.
+Hiện tượng nhiễu xạ là hiện tượng ánh sáng truyền sai lệch so với sự truyền thẳng khi ánh sáng gặp vật cản.
+Những vạch tối là chỗ hai sóng ánh sáng triệt tiêu lẫn nhau, những vạch sáng là chỗ hai sóng ánh sáng tăng cường lẫn nhau.
+Quang phổ vạch hấp thụ cũng đặc trưng cho từng nguyên tố.
+Quang phổ liên tục là quang phổ gồm nhiều dải màu từ đỏ đến tím, nối liền nhau một cách liên tục.
+Hiện tượng quang điện chỉ xảy ra khi ánh sáng kích thích chiếu vào kim loại có bước sóng nhỏ hơn hoặc bằng bước sóng giới hạn quang điện.
+Hiện tượng quang điện trong được ứng dụng trong quang điện trở và pin quang điện.
+Có một số chất (rắn, lỏng, khí) khi hấp thụ năng lượng dưới một dạng năng lượng nào đó, thì có khả năng phát ra các bức xạ điện từ trong miền ánh sáng nhìn thấy.
+Ánh sáng phát quang có bước sóng dài hơn bước sóng của ánh sáng kích thích.
+Để tiện tính toán khối lượng hạt nhân, người ta sử dụng đơn vị khối lượng nguyên tử (đơn vị Cacbon).
+Các nuclôn trong hạt nhân hút nhau bằng một lực rất mạnh, gọi là lực hạt nhân, có tác dụng liên kết các nuclôn tạo nên hạt nhân bền vững.
+Khối lượng của hạt nhân luôn nhỏ hơn tổng khối lượng của các nuclôn tạo thành hạt nhân đó.
+Năng lượng liên kết riêng là đại lượng đặc trưng cho độ bền vững của hạt nhân, năng lượng liên kết riêng càng lớn hạt nhân càng bền vững.
+Trong quá trình phân rã, số hạt nhân phóng xạ giảm theo thời gian theo định luật hàm số mũ.
+Tia gamma là sóng điện từ có bước sóng rất ngắn.
+Phản ứng nhiệt hạch là phản ứng trong đó hai hạt nhân nhẹ tổng hợp lại thành một hạt nhân nặng hơn.
+Dao động cơ là chuyển động qua lại quanh một vị trí cân bằng.
+Đồ thị của dao động điều hòa đều là một đường hình sin.

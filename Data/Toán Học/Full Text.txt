@@ -1,0 +1,100 @@
+Thống kê là khoa học về các phương pháp thu thập, tổ chức, trình bày, phân tích và xử lý số liệu.
+Dấu hiệu (điều tra) là một vấn đề hay hiện tượng nào đó mà người điều tra quan tâm tìm hiểu.
+Mỗi đối tượng điều tra gọi là một đơn vị điều tra. 
+Mỗi đơn vị điều tra có một số liệu, số liệu đó gọi là giá trị của dấu hiệu trên đơn vị điều tra đó.
+Một tập con hữu hạn các đơn vị điều tra được gọi là một mẫu.
+Số phần tử của một mẫu được gọi là kích thước mẫu.
+Các giá trị của dấu hiệu thu được trên mẫu được gọi là một mẫu số liệu.
+Ta có thể mô tả trực quan các bảng phân bố tần số (tần suất) hoặc bảng phân bố tần số (tần suất) ghép lớp bằng biểu đồ hoặc đường gấp khúc.
+Các bảng phân bố tần suất, tần suất ghép lớp cũng có thể mô tả bằng biểu đồ hình quạt.
+Mốt của một bảng phân bố tần số là giá trị có tần số lớn nhất.
+Số trung bình của mẫu số liệu được dùng làm đại diện cho các số liệu của mẫu.
+Nếu các số liệu trong mẫu có sự chênh lệch quá lớn thì dùng số trung vị làm đại diện cho các mẫu số liệu.
+Nếu quan tâm đến giá trị có tần số lớn nhất thì dùng mốt làm đại diện.
+Một mẫu số liệu có thể có nhiều mốt.
+Trong 40 thửa ruộng được khảo sát, hãy cho biết những thửa ruộng có năng suất cao nhất chiếm bao nhiêu phần trăm.
+Để đo mức độ phân tán (so với số trung bình cộng) ta dùng phương sai.
+Mệnh đề là một câu khẳng định đúng hoặc một câu khẳng định sai.
+Một mệnh đề không thể vừa đúng, vừa sai.
+Mệnh đề chứa biến là một câu khẳng định chứa biến nhận giá trị trong một tập X nào đó mà với mỗi giá trị của biến thuộc X ta được một mệnh đề.
+Ta giả thiết A đúng.
+Dùng suy luận và các kiến thức toán học chứng minh B đúng.
+Ta giả thiết B sai, từ đó chứng minh A sai.
+Do A không thể vừa đúng vừa sai nên kết quả là B phải đúng.
+Chứng minh các đẳng thức về vectơ có liên quan đến tích có hướng bằng cách sử dụng các tính chất phân phối của tích có hướng đối với phép cộng các vectơ.
+Gọi O là trung điểm của AB và M là điểm tùy ý.
+Cho tam giác ABC có góc A nhọn.
+Vẽ bên ngoài tam giác ABC các tam giác vuông cân đỉnh A là ABD và ACE. 
+Gọi M là trung điểm của BC.
+Chứng mính rằng AM vuông góc với DE.
+Chân đường phân giác trong góc A là điểm D.
+Chứng minh rằng tam giác ABC vuông tại A.
+Tính độ dài các cạnh AB AC , và BC của tam giác đó.
+Trong mặt phẳng Oxy, cho điểm A( 2;1).
+Gọi B là điểm đối xứng với điểm A qua gốc tọa độ O.
+Tìm tọa độ điểm C có tung độ bằng 2 sao cho tam giác ABC vuông tại C.
+Sử dụng các công thức cơ bản ở phần lý thuyết để tính ra các giá trị lượng giác.
+Từ giả thiết đề cho (thường là giá trị của góc hay một giá trị lượng giác) định hướng biến đổi biểu thức về dạng chỉ xuất hiện giá trị đã cho của giả thiết để tính.
+Sử dụng linh hoạt các công thức cơ bản, các phép biến đổi đại số và sử dụng các hằng đẳng thức đáng nhớ để rút gọn và chứng minh.
+Qua 1 điểm nằm ngoài 1 đường thẳng cho trước có bao nhiêu đường thẳng song song với đường thẳng đó?
+Hãy tưởng tượng trong không gian qua 1 điểm nằm ngoài 1 mặt phẳng cho trước có bao nhiêu mặt phẳng song song với mặt phẳng đó?
+Nếu hai mặt phẳng song song thì mọi đường thẳng nằm trên mặt phẳng này đều song song với mặt phẳng kia.
+Nếu mặt phẳng (P) chứa hai đường thẳng cùng song song với mặt phẳng (Q) thì (P) và (Q) song song với nhau.
+Nếu hai mặt phẳng (P) và (Q) song song nhau thì mặt phẳng (R) đã cắt (P) đều phải cắt (Q) và các giao tuyến của chúng song song nhau.
+Nếu một đường thẳng cắt một trong hai mặt phẳng song song thì sẽ cắt mặt phẳng còn lại.
+Qua một điểm nằm ngoài một mặt phẳng cho trước có một và chỉ một mặt phẳng song song với mặt phẳng đã cho.
+Không có lôgarit của số âm và số 0.
+Trong nhiều vấn đề lý thuyết và ứng dụng, chúng ta cần đổi từ lôgarit theo một cơ số này sang lôgarit theo một cơ số khác.
+Ngày nay, thay cho việc dùng bảng lôgarit và thước tính lôgarit, người ta sử dụng máy tính cầm tay còn thuận tiện hơn rất nhiều.
+Giới hạn trên dẫn đến một khái niệm quan trọng trong Toán học, đó là khái niệm đạo hàm.
+Tại sao công thức cộng xác suất cho hai biến cố xung khắc là hệ quả của công thức cộng xác suất?
+Một hộp đựng 5 quả cầu màu xanh và 3 quả cầu màu đỏ, có cùng kích thước và khối lượng.
+Tính xác suất để chọn được hai quả cầu có cùng màu.
+Cặp biến cố A và B là xung khắc vì A và B không đồng thời xảy ra.
+Cặp biến cố A và C không xung khắc vì nếu tổng số chấm xuất hiện trên hai con xúc xắc bằng 7 thì cả A và C xảy ra.
+Cặp biến cố B và C không xung khắc vì nếu tổng số chấm xuất hiện trên hai con xúc xắc bằng 3 thì cả B và C xảy ra.
+Biến cố A và biến cố B được gọi là xung khắc nếu A và B không đồng thời xảy ra.
+Khoảng cách là khái niệm được dùng nhiều trong lĩnh vực của đời sống.
+Khoảng cách từ một điểm M đến một đường thẳng a, kí hiệu d(M, a), là khoảng cách giữa M và hình chiếu H của M trên a.
+Khoảng cách từ một điểm M đến một mặt phẳng (P), kí hiệu d(M, (P)), là khoảng cách giữa M và hình chiếu H của M trên (P).
+Khoảng cách từ M đến đường thẳng a (mặt phẳng (P)) là khoảng cách nhỏ nhất giữa M và một điểm thuộc a (thuộc (P)).
+Khoảng cách từ đỉnh đến mặt phẳng chứa mặt đáy của một hình chóp được gọi là chiều cao của hình chóp đó.
+Đường thẳng cắt hai đường thẳng chéo nhau a, b và vuông góc với cả hai đường thẳng đó được gọi là đường vuông góc chung của a và b.
+Nếu đường vuông góc chung cắt a, b tương ứng tại M, N thì độ dài đoạn thẳng MN được gọi là khoảng cách giữa hai đường thẳng chéo nhau a, b.
+Phần không gian được giới hạn bởi hình chóp, hình chóp cụt đều, hình lăng trụ, hình hộp tương ứng được gọi là khối chóp, khối chóp cụt đều, khối lăng trụ, khối hộp.
+Đỉnh, mặt, cạnh, đường cao của các khối hình đó lần lượt là đỉnh, mặt, cạnh, đường cao của hình chóp, hình cụt đều, hình lăng trụ, hình hộp tương ứng.
+Thể tích khối tứ diện bằng một phần ba tích của chiều cao từ một đỉnh và diện tích mặt đối diện với đỉnh đó.
+Thể tích của khối hộp bằng tích của diện tích một mặt và chiều cao của khối hộp ứng với mặt đó.
+Hình lăng trụ đứng là hình lăng trụ có các cạnh bên vuông góc với mặt đáy.
+Hình lăng trụ đều là hình lăng trụ đứng có đáy là đa giác đều.
+Hình hộp đứng là hình lăng trụ đứng, có đáy là hình bình hành.
+Hình hộp chữ nhật là hình hộp đứng có đáy là hình chữ nhật.
+Hình hộp chữ nhật có các mặt bên là hình chữ nhật.
+Các đường chéo của hình hộp chữ nhật có độ dài bằng nhau và chúng cắt nhau tại trung điểm mỗi đường.
+Hình lập phương là hình hộp chữ nhật có tất cả các cạnh bằng nhau.
+Hình chóp đều là hình chóp có đáy là đa giác đều và các cạnh bên bằng nhau.
+Một hình chóp là đều khi và chỉ khi đáy của nó là một hình đa giác đều và hình chiếu của đỉnh trên mặt phẳng đáy là tâm của mặt đáy.
+Hàm số đồng biến hoặc nghịch biến trên K được gọi chung là hàm số đơn điệu trên K.
+Nếu hàm số đồng biến trên K thì đồ thị đi lên từ trái sang phải.
+Khoảng l trong định lí trên có thể được thay bởi một đoạn hoặc một nửa khoảng.
+Khi đó phải bổ sung giả thiết 'Hàm số liên tục trên đoạn hoặc nửa khoảng đó'.
+Việc tìm các khoảng đồng biến và nghịch biến của một hàm số còn được nói gọn là xét chiều biến thiên của hàm số đó.
+Điểm cực đại và điểm cực tiểu được gọi chung là điểm cực trị.
+Giá trị cực đại và giá trị cực tiểu được gọi chung là cực trị.
+Điểm uốn của đồ thị là điểm phân chia hai phần lồi và lõm của đồ thị.
+Mặt phẳng tọa độ với việc biểu diễn số phức như thế được gọi là mặt phẳng phức.
+Các điểm trên trục hoành Ox biểu diễn các số thực, do đó trục Ox còn được gọi là trục thực.
+Hai số phức liên hợp khi và chỉ khi các điểm biểu diễn của chúng đối xứng với nhau qua trục thực Ox.
+Nếu F(x) là một nguyên hàm của hàm số f(x) trên K thì mọi nguyên hàm của f(x) trên K đều có dạng F(x) + C, với C là một hằng số.
+Mọi hàm số f(x) liên tục trên K đều có nguyên hàm trên K.
+Từ đây, yêu cầu tìm nguyên hàm của một hàm số được hiểu là tìm nguyên hàm trên từng khoảng xác định của nó.
+Lịch sử Toán học cho thấy khái niệm tích phân đã xuất hiện độc lập với đạo hàm và nguyên hàm.
+Để định nghĩa tích phân, các nhà toán học ở thế kỉ XVII và XVIII không dùng đến khái niệm giới hạn.
+Chẳng hạn, diện tích của hình thang cong là tổng của một số vô cùng lớn những diện tích của những hình chữ nhật vô cùng nhỏ.
+Khái niệm hiện dại về tích phân, xem như giới hạn của các tổng tích phân, là của Cô-si và Ri-man.
+Phát biểu định nghĩa nguyên hàm của hàm số f(x) trên một khoảng.
+Nêu phương pháp tính nguyên hàm từng phần và các tính chất của tích phân.
+Ta có thể tìm thêm được nhiều cặp số thỏa mãn bất phương trình đã cho.
+Biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn trên mặt phẳng tọa độ.
+Hệ bất phương trình bậc nhất hai ẩn là một hệ gồm hai hay nhiều bất phương trình bậc nhất hai ẩn.
+Miền không bị gạch là miền nghiệm của hệ bất phương trình đã cho.

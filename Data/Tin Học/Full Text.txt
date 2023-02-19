@@ -1,0 +1,100 @@
+Thu thập, tập hợp hồ sơ thông tin cần thiết cho hồ sơ từ nhiều nguồn khác nhau và lưu trữ chúng theo đúng cấu trúc đã xác định.
+Một cơ sở dữ liệu (Database): là một tập hợp các dữ liệu có liên quan với nhau, chứa thông tin của một tổ chức nào đó, được lưu trữ trên các thiết bị nhớ để đáp ứng nhu cầu khai thác thông tin của nhiều người dùng với nhiều mục đích khác nhau.
+Việc ứng dụng cơ sở dữ liệu trong hầu hết các hoạt động xã hội đều trở nên phổ biến, quen thuộc.
+Hệ quản trị cơ sở dữ liệu (Database Management System) là phần mềm cung cấp môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và khai thác thông tin của cơ sở dữ liệu.
+Phần mềm cung cấp môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và khai thác thông tin của cơ sở dữ liệu gọi là hệ quản trị cơ sở dữ liệu.
+Hệ quản trị cơ sở dữ liệu phải cung cấp môi trường cho người dùng dễ dàng khai báo kiểu dữ liệu, các cấu trúc dữ liệu thể hiện thông tin và các ràng buộc trên dữ liệu.
+Ngôn ngữ thao tác dữ liệu là ngôn ngữ để người dùng diễn tả yêu cầu cập nhật hay khai thác thông tin.
+Phát hiện và ngăn chặn truy cập không được phép, đáp ứng yêu cầu an toàn và bảo mật thông tin.
+Xác định dữ liệu cần lưu trữ, phân tích mối liên hệ dữ liệu.
+Xác định khả năng phần cứng, phần mềm có thể khai thác, sử dụng.
+Xây dựng hệ thống chương trình ứng dụng.
+Mỗi bảng chứa thông tin về một chủ thể xác định gồm nhiều hàng, mỗi hàng chứa các thông tin về một cá thể xác định của chủ thể.
+Mẫu hỏi (Query) dùng để sắp xếp, tìm kiếm và kết xuất dữ liệu xác định từ một hoặc nhiều bảng.
+Biểu mẫu (Form) giúp tạo giao diện thuận tiện cho việc nhập hoặc hiển thị thông tin.
+Báo cáo (Report) được thiết kế để định dạng, tính toán, tổng hợp các dữ liệu được chọn và in ra.
+Trường (field) là một cột của bảng thể hiện một thuộc tính của chủ thể cần quản lí.
+Cấu trúc của bảng thể hiện bởi các trường, mỗi trường có tên trường (Field Name), kiểu dữ liệu (Data Type), mô tả trường (Description) và các tính chất của trường (Field Properties).
+Khóa chính: giá trị của trường xác định duy nhất mỗi hàng trong bảng.
+Access hiển thị ký hiệu chiếc chìa khoá ở bên trái trường được chọn để cho biết trường đó được chỉ định làm khoá chính.
+Lọc là một công cụ của hệ quản trị cơ sở dữ liệu cho phép tìm ra những bản ghi thỏa mãn một số điều kiện nào đó phục vụ tìm kiếm.
+Chức năng tìm kiếm (tìm kiếm và thay thế) trong Access tương tự như trong Word.
+Hiển thị dữ liệu trong bảng dưới dạng thuận lợi để xem, nhập và sửa dữ liệu.
+Chế độ biểu mẫu là chế độ có giao diện thân thiện được sử dụng để cập nhật dữ liệu.
+Dùng mẫu hỏi và liên kết, ta có thể thống kê dữ liệu, nhóm và lựa chọn các bản ghi của nhiều bảng.
+Có 2 chế độ làm việc, đó là chế độ thiết kế và chế độ trang dữ liệu.
+Để thực hiện các tính toán và kiểm tra các điều kiện, Access có các công cụ để viết các biểu thức, bao gồm toán hạng và phép toán.
+Mô hình dữ liệu quan hệ (gọi tắt là mô hình quan hệ) được E. F. Codd đề xuất năm 1970. 
+Các cột biểu thị các thuộc tính của chủ thể và tên cột thường là tên của thuộc tính.
+Mỗi hàng biểu thị cho một cá thể, gồm một bộ các giá trị tương ứng với các cột.
+Các kết quả tìm kiếm thông tin qua truy vấn dữ liệu có được nhờ thực hiện các thao tác trên dữ liệu.
+Cơ sở dữ liệu được xây dựng dựa trên mô hình dữ liệu quan hệ gọi là cơ sở dữ liệu quan hệ.
+Miền để chỉ kiểu dữ liệu của một thuộc tính.
+Không có hai hàng nào trong một bảng tương ứng bằng nhau trên tất cả các thuộc tính.
+Chọn khoá chính cho bảng bằng cách để hệ quản trị cơ sở dữ liệu tự động chọn hoặc ta xác định khoá thích hợp trong các khoá của bảng làm khoá chính.
+Tạo liên kết giữa các bảng bằng cách xác định các trường chung trong các bảng.
+Sau khi tạo cấu trúc ta có thể nhập dữ liệu cho bảng.
+Xoá bản ghi là việc xoá một hoặc một số bộ của bảng.
+Các bản ghi có thể được sắp xếp theo nội dung của một hay nhiều trường.
+SQL là một công cụ mạnh trong các hệ quản trị cơ sở dữ liệu quan hệ thông dụng hiện nay.
+Dùng các biểu mẫu phức tạp có thể hiển thị các thông tin có liên quan được kết xuất từ nhiều bảng.
+Thông tin trong một báo cáo được thu thập bằng cách tập hợp dữ liệu theo các tiêu chí do người dùng đặt ra.
+Báo cáo đơn giản là danh sách một bản ghi, có thể phức tạp hơn.
+Cá nhân đóng vai trò người quản trị cơ sở dữ liệu, người viết chương trình ứng dụng, người dùng đầu cuối hệ thống.
+Tùy thuộc vào quy mô, máy tính trung tâm có thể là một máy hay một dàn máy và có rất nhiều người dùng.
+Phần mềm yêu cầu tài nguyên có thể cài đặt nhiều máy khác nhau.
+Tiếp nhận yêu cầu truy vấn thông tin và xử lí các yêu cầu sau đó gửi kết quả tới máy khách.
+Nâng cao khả năng thực hiện của CPU: các CPU ở máy chủ và máy khách khác nhau có thể cùng chạy song song, mỗi CPU thực hiện một nhiệm vụ.
+Chi phí cho phần cứng giảm do chỉ cần máy chủ có cấu hình mạnh để lưu trữ và quản trị dữ liệu.
+Cơ sở dữ liệu phân tán là những hệ thống cho phép người dùng truy cập không chỉ dữ liệu đặt tại chỗ mà những dữ liệu để ở xa.
+Các hệ cơ sở dữ liệu phân tán cho phép truy cập được dữ liệu trong tất cả các đơn vị, dữ liệu được sử dụng nhiều nhất sẽ lưu tại đơn vị sử dụng.
+Là một tập hợp dữ liệu có liên quan (về mặt logic) được dùng chung và phân tán về mặt vật lí trên một mạng máy tính.
+Cấu trúc phân tán dữ liệu thích hợp cho bản chất phân tán của nhiều người dùng.
+Dữ liệu có tính sẵn sàng cao.
+Dữ liệu được chia sẻ trên mạng nhưng vẫn cho phép quản trị dữ liệu địa phương (dữ liệu đặt tại mỗi trạm).
+Dữ liệu có tính tin cậy cao vì khi một nút gặp sự cố, có thể khôi phục được dữ liệu tại đây do bản sao của nó có thể được lưu trữ tại một nút khác nữa.
+Hệ thống phức tạp hơn vì phải làm ẩn đi sự phân tán dữ liệu đối với người dùng.
+Việc bảo mật có thể thực hiện bằng các giải pháp kĩ thuật cả phần cứng lẫn phần mềm.
+Tuy nhiên hiệu quả việc bảo mật phụ thuộc rất nhiều vào các chủ trương, chính sách của chủ sở hữu thông tin và ý thức của người dùng.
+Người dùng cần có ý thức coi thông tin là một tài nguyên quan trọng, cần có trách nhiệm cao.
+Đối với nhóm người truy cập cao thì cơ chế nhận dạng có thể phức tạp hơn.
+Các thông tin quan trọng và nhạy cảm thường được lưu trữ dưới dạng mã hoá để giảm khả năng rò rỉ. 
+Có nhiều cách mã hoá khác nhau, tiêu biểu là nén dữ liệu để giảm dung lượng bộ nhớ lưu trữ dữ liệu.
+Mã hóa độ dài loạt là một cách nén dữ liệu khi trong tệp dữ liệu có các kí tự được lặp lại liên tiếp.
+Ngoài mục đích giảm dung lượng lưu trữ, nén dữ liệu cũng góp phần tăng cường tính bảo mật của dữ liệu.
+Khi có dữ liệu dạng nén, cần biết quy tắc nén mới có dữ liệu gốc được.
+Để nâng cao hiệu quả bảo mật, các tham số của hệ thống bảo vệ phải thường xuyên được thay đổi.
+Ngôn ngữ lập trình: Là ngôn ngữ dùng để diễn tả thuật toán sao cho máy tính hiểu và thực hiện được.
+Ngôn ngữ máy: Chương trình viết bằng ngôn ngữ máy có thể nạp trực tiếp vào bộ nhớ và thực hiện ngay.
+Dùng các thuật toán thân thiện để viết chương trình thay cho cách lập trình trực tiếp bằng mã máy.
+Chương trình viết trên ngôn ngữ lập trình bậc cao phải chuyển đổi thành chương trình trên ngôn ngữ máy mới có thể thực hiện được.
+Là chương trình đặc biệt nhằm chuyển đổi chương trình viết bằng ngôn ngữ lập trình bậc cao (chương trình nguồn) sang ngôn ngữ máy (chương trình đích).
+Chương trình thông dịch lần lượt dịch và thực hiện từng câu lệnh.
+Mỗi ngôn ngữ lập trình thường có 3 thành phần cơ bản là: bảng chữ cái, cú pháp, ngữ nghĩa.
+Cú pháp: là bộ quy tắc để viết chương trình, dựa vào chúng người lập trình và chương trình dịch biết được tổ hợp nào là không hợp lệ.
+Ngữ nghĩa: xác định ý nghĩa thao tác cần phải thực hiện, ứng với tổ hợp kí tự dựa vào ngữ cảnh của nó.
+Cú pháp cho biết cách viết một chương trình hợp lệ, ngữ nghĩa xác định ý nghĩa của các tổ hợp kí tự trong chương trình.
+Mọi đối tượng trong chương trình đề được đặt tên theo quy tắc của ngôn ngữ lập trình và từng chương trình dịch cụ thể.
+Là tên được ngôn ngữ lập trình dùng với ý nghĩa nhất định nào đó, tuy nhiên người lập trình có thể khi báo và dung túng với ý nghĩa và mục đích khác.
+Biến: Là đại lượng được đặt tên, dùng để lưu trữ giá trị và giá trị có thể thay đổi trong quá trình thực hiện chương trình.
+Chương trình viết bằng một ngôn ngữ lập trình bậc cao thường gồm phần khai báo và phần thân.
+Khi ta sử dụng hàm trong thư viện mà lại quên khai báo nó (Ví dụ hàm readkey trong thư viện crt) sẽ gây ra lỗi khi biên dịch.
+Tất cả các biến dùng trong chương trình đều phải đặt tên và khai báo để chương trình dịch biết để lưu trữ và xử lý.
+Người lập trình cần tìm hiểu đặc trưng của các kiểu dữ liệu chuẩn được xác định bởi bộ dịch và sử dụng để khai báo biến.
+Kiểu dữ liệu thường là các kiểu dữ liệu giới thiệu từ bài trước hoặc là các kiểu dữ liệu tự định nghĩa.
+Tương tự trong toán học, trong các ngôn ngữ lập trình đều có những phép toán số học như cộng, trừ, nhân, chia, ….
+Trong lập trình, biểu thức số học là một biến kiểu số, một hằng, các biến kiểu số, các hằng số liên kết với nhau bởi một số hữu hạn các phép toán, các dấu ngoặc tròn.
+Để lập trình dễ dàng, các ngôn ngữ lập trình đều chứa một số chương trình tính giá trị những hàm toán học thường dùng. 
+Hai biểu thức cùng kiểu liên kết với nhau bởi phép toán quan hệ cho ta một biểu thức quan hệ.
+Biểu thức logic có thể là các biểu thức logic đơn giản,các biểu thức quan hệ liên kết với nhau bởi các phép toán logic.
+Lệnh gán là một trong những lệnh cơ bản nhất của các ngôn ngữ lập trình.
+Cho phép đưa dữ liệu từ bàn phím hoặc từ đĩa và gán cho biến, làm cho chương trình linh hoạt hơn.
+Cấu trúc rẽ nhánh dùng để diễn đạt một việc sẽ được thực hiện khi một điều kiện cụ thể được thỏa mãn.
+Chương trình con: Là một dãy lệnh mô tả một số thao tác nhất định và có thể được thực hiện (được gọi ) từ nhiều vị trí trong chương trình.
+Phần khai báo có thể có khai báo biến cho dữ liệu vào và ra, các hằng và biến dùng trong chương trình con.
+Phần thân của chương trình con là dãy câu lệnh thực hiện để từ những dữ liệu vào ta nhận được dữ liệu ra hay kết quả mong muốn.
+Thư viện crt chứa các thủ tục liên quan đến việc quản lí và khai thác màn hình , bàn phím của máy tính.
+Thư viện này chứa các hàm, thủ tục liên quan đến chế độ đồ họa của các loại màn hình khác nhau và cho phép thực hiện các thao tác đồ họa cơ bản như vẽ điểm, đường, tô màu….
+Một chương trình đồ họa bao giờ cũng mở đầu bằng việc khởi tạo chế độ đồ họa.
+Trong thư viện chuẩn này chứa các hàm sơ cấp và các thủ tục vào/ra mà các chương trình đều dùng tới.
+Muốn sử dụng thủ tục và hàm chuẩn của thư viện nào đó (Trừ system) ta phải dùng lệnh khai báo.

@@ -1,0 +1,100 @@
+Thống kê là KH về các PP thu thập, t/chức, tr/bày, pt và XL số liệu.
+Dấu hiệu (đtra) là một vđ hay HT nào đó mà ng đtra qtâm tìm hiểu.
+Mỗi ĐT đtra gọi là một đv đtra. 
+Mỗi đv đtra có một số liệu, số liệu đó gọi là gtrị của dấu hiệu trên đv đtra đó.
+Một tập con hữu hạn các đv đtra đc gọi là một mẫu.
+Số ptử của một mẫu đc gọi là KT mẫu.
+Các gtrị của dấu hiệu thu đc trên mẫu đc gọi là một mẫu số liệu.
+Ta có thể mtả trực quan các bảng pbố tần số (tần suất) hoặc bảng pbố tần số (tần suất) ghép lớp bằng b/đồ hoặc đường gấp khúc.
+Các bảng pbố tần suất, tần suất ghép lớp cũng có thể mtả bằng bđồ hình quạt.
+Mốt của một bảng pbố tần số là gtrị có tần số lớn nhất.
+Số TB của mẫu số liệu được dùng làm đại diện cho các số liệu của mẫu.
+Nếu các số liệu trg mẫu có sự chênh lệch quá lớn thì dùng số trung vị làm đại diện cho các mẫu số liệu.
+Nếu qtâm đến gtrị có tần số lớn nhất thì dùng mốt làm đại diện.
+Một mẫu số liệu có thể có n mốt.
+Trong 40 thửa ruộng được k/sát, hãy cho biết ñ thửa ruộng có nsuất cao nhất chiếm bn phần trăm.
+Để đo mức độ ptán (so với số tb cộng) ta dùng phương sai.
+Mđ là một câu k/định đúng hoặc một câu k/định sai.
+Một mđ ko thể vừa đúng, vừa sai.
+Mđ chứa biến là một câu k/định chứa biến nhận gtrị trg một tập X nào đó mà với mỗi gtrị của biến thc X ta đc một mđ.
+Ta g/thiết A đúng.
+Dùng suy luận và các k/thức toán học cm B đúng.
+Ta g/thiết B sai, từ đó cm A sai.
+Do A ko thể vừa đúng vừa sai nên KQ là B phải đúng.
+CM các ĐT về vectơ có lquan đến tích có hướng bằng cách sd các t/c phân phối của tích có hướng đ/v phép cộng các vectơ.
+Gọi O là tđ của AB và M là điểm tùy ý.
+Cho TG ABC có góc A nhọn.
+Vẽ bên ngoài TG ABC các TG vg cân đỉnh A là ABD và ACE. 
+Gọi M là tđ của BC.
+Cmr AM vg góc với DE.
+Chân đường pg trong góc A là điểm D.
+CMR TG ABC vg tại A.
+Tính đdài các cạnh AB AC , và BC của TG đó.
+Trong mp Oxy, cho điểm A( 2;1).
+Gọi B là điểm đx với điểm A qua gốc tọa độ O.
+Tìm tọa độ điểm C có tung độ bằng 2 sao cho TG ABC vg tại C.
+S/dụng các CT cơ bản ở phần LT để tính ra các gtrị lượng giác.
+Từ gthiết đề cho (thường là gtrị của góc hay một gtrị lượng giác) đ/hướng bđổi BT về dạng chỉ xuất hiện gtrị đã cho của gthiết để tính.
+Sd linh hoạt các CT cơ bản, các phép bđổi đại số và s/dụng các hằng đẳng thức đáng nhớ để rút gọn và cm.
+Qua 1 điểm nằm ngoài 1 đt cho trc có bn đt // với đt đó?
+Hãy tưởng tượng trong kgian qua 1 điểm nằm ngoài 1 mp cho trc có bn mp // với mp đó?
+Nếu hai mp // thì mọi đt nằm trên mp này đều // vs mp kia.
+Nếu mp (P) chứa hai đt cùng // với mp (Q) thì (P) và (Q) // vs nhau.
+Nếu hai mp (P) và (Q) // nhau thì mp (R) đã cắt (P) đều phải cắt (Q) và các giao tuyến của chúng // nhau.
+Nếu một đt cắt một trong hai mp // thì sẽ cắt mp còn lại.
+Qua một điểm nằm ngoài một mp cho trc có một và chỉ một mp // với mp đã cho.
+Ko có lôgarit của số âm và số 0.
+Trong nhiều vđ LT và ỨD, cta cần đổi từ lôgarit theo một cơ số này sang lôgarit theo một cơ số khác.
+Ngày nay, thay cho việc dùng bảng lôgarit và thước tính lôgarit, ngta sd máy tính cầm tay còn thuận tiện hơn rất nhiều.
+Ghạn trên dẫn đến một KN qtrọng trong Toán học, đó là KN đạo hàm.
+Tại sao CT cộng XS cho hai biến cố xung khắc là hquả của CT cộng XS?
+Một hộp đựng 5 quả cầu màu xanh và 3 quả cầu màu đỏ, có cùng KT và KL.
+Tính XS để chọn đc hai quả cầu có cùng màu.
+Cặp biến cố A và B là xung khắc vì A và B ko đồng thời xra.
+Cặp biến cố A và C ko xung khắc vì nếu tổng số chấm x/hiện trên hai con xúc xắc bằng 7 thì cả A và C xra.
+Cặp biến cố B và C ko xung khắc vì nếu tổng số chấm x/hiện trên hai con xúc xắc bằng 3 thì cả B và C xra.
+Biến cố A và biến cố B đc gọi là xung khắc nếu A và B ko đồng thời xra.
+K/c là KN đc dùng nhiều trg l/vực của đ/sống.
+K/c từ một điểm M đến một đt a, k/hiệu d(M, a), là k/c giữa M và hình chiếu H của M trên a.
+K/c từ một điểm M đến một mp (P), k/hiệu d(M, (P)), là k/c giữa M và hình chiếu H của M trên (P).
+K/c từ M đến đt a (mp (P)) là k/c nhỏ nhất giữa M và một điểm thc a (thc (P)).
+K/c từ đỉnh đến mp chứa mặt đáy của một hình chóp được gọi là chiều cao của hình chóp đó.
+Đt cắt hai đt chéo nhau a, b và vg góc với cả hai đt đó đc gọi là đường vg góc chung của a và b.
+Nếu đường vg góc chung cắt a, b tương ứng tại M, N thì đdài đt MN đc gọi là k/c giữa hai đt chéo nhau a, b.
+Phần kgian đc ghạn bởi hình chóp, hình chóp cụt đều, hình lăng trụ, hình hộp tương ứng được gọi là khối chóp, khối chóp cụt đều, khối lăng trụ, khối hộp.
+Đỉnh, mặt, cạnh, đ/cao của các khối hình đó lll đỉnh, mặt, cạnh, đ/cao của hình chóp, hình cụt đều, hình lăng trụ, hình hộp tương ứng.
+Thể tích khối tứ diện bằng một phần ba tích của chiều cao từ một đỉnh và DT mặt đối diện vs đỉnh đó.
+Thể tích của khối hộp bằng tích của DT một mặt và chiều cao của khối hộp ứng vs mặt đó.
+Hình lăng trụ đứng là hình lăng trụ có các cạnh bên vg góc vs mặt đáy.
+Hình lăng trụ đều là hình lăng trụ đứng có đáy là đgiác đều.
+Hình hộp đứng là hình lăng trụ đứng, có đáy là hbh.
+HHCN là hình hộp đứng có đáy là HCN.
+HHCN có các mặt bên là HCN.
+Các đ/chéo của HHCN có đdài bằng nhau và chúng cắt nhau tại tđ mỗi đường.
+Hình lập phương là HHCN có tất cả các cạnh bằng nhau.
+Hình chóp đều là hình chóp có đáy là đgiác đều và các cạnh bên bằng nhau.
+Một hình chóp là đều khi và chỉ khi đáy của nó là một hình đgiác đều và hình chiếu của đỉnh trên mp đáy là tâm của mặt đáy.
+H/số đồng biến hoặc nghịch biến trên K đc gọi chung là h/số đơn điệu trên K.
+Nếu h/số đồng biến trên K thì đ/thị đi lên từ trái sang phải.
+Khoảng l trong đ/lí trên có thể đc thay bởi một đoạn hoặc một nửa khoảng.
+Khi đó phải b/sung gthiết 'H/số ltục trên đoạn hoặc nửa khoảng đó'.
+Vc tìm các khoảng đồng biến và nghịch biến của một h/số còn đc nói gọn là xét chiều biến thiên của h/số đó.
+Điểm cđại và điểm ctiểu đc gọi chung là điểm ctrị.
+G/trị cđại và g/trị ctiểu đc gọi chung là ctrị.
+Điểm uốn của đ/thị là điểm phân chia hai phần lồi và lõm của đ/thị.
+Mp tọa độ với việc bdiễn số phức như thế được gọi là mp phức.
+Các điểm trên trục hoành Ox bdiễn các số thực, do đó trục Ox còn đc gọi là trục thực.
+Hai số phức liên hợp khi và chỉ khi các điểm bdiễn của chúng đx vs nhau qua trục thực Ox.
+Nếu F(x) là một ng/hàm của h/số f(x) trên K thì mọi ng/hàm của f(x) trên K đều có dạng F(x) + C, với C là một hằng số.
+Mọi h/số f(x) ltục trên K đều có ng/hàm trên K.
+Từ đây, y/c tìm ng/hàm của một h/số đc hiểu là tìm ng/hàm trên từng khoảng x/đ của nó.
+Lsử Toán học cho thấy KN tphân đã x/hiện độc lập vs đạo hàm và ng/hàm.
+Để ĐN tphân, các nhà toán học ở TK XVII và XVIII ko dùng đến KN ghạn.
+Chẳng hạn, dt của hình thang cong là tổng của một số vô cùng lớn những DT của những HCN vô cùng nhỏ.
+KN hđại về tphân, xem như g/hạn của các tổng tphân, là của Cô-si và Ri-man.
+P/biểu ĐN ng/hàm của h/số f(x) trên một khoảng.
+Nêu PP tính ng/hàm từng phần và các t/c của tphân.
+Ta có thể tìm thêm đc nhiều cặp số thỏa mãn bpt đã cho.
+Bdiễn miền nghiệm của bpt bậc nhất hai ẩn trên mp tọa độ.
+Hệ bpt bậc nhất hai ẩn là một hệ gồm hai hay nhiều bpt bậc nhất hai ẩn.
+Miền ko bị gạch là miền nghiệm của hệ bpt đã cho.

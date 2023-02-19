@@ -1,0 +1,100 @@
+Thu thập, tập hợp hồ sơ tt cần thiết cho hồ sơ từ n nguồn # nhau và lưu trữ chúng theo đúng cấu trúc đã xđ.
+Một csdl (Database): là 1 tập hợp các dl có liên quan với nhau, chứa tt của 1 tổ chức nào đó, được lưu trữ trên các thiết bị nhớ để đáp ứng nhu cầu khai thác tt của n ng dùng với n mục đích khác nhau.
+Việc ứng dụng CSDL trg hầu hết các hoạt động XH đều trở nên phổ biến, quen thuộc.
+Hệ QTCSDL (Database Management System) là phần mềm cung cấp môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và khai thác thông tin của CSDL.
+Phần mềm cung cấp môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và khai thác thông tin của csdl gọi là hqtcsdl.
+Hệ quản trị CSDL phải cung cấp môi trường cho ng dùng dễ dàng khai báo kiểu d/l, các cấu trúc d/l thể hiện thông tin và các ràng buộc trên d/l.
+Ngôn ngữ thao tác DL là ngôn ngữ để người dùng diễn tả y/c cập nhật hay khai thác tt.
+Phát hiện và ngăn chặn truy cập ko dc phép, đáp ứng yc an toàn và bảo mật tt.
+Xđ dl cần lưu trữ, phân tích mối liên hệ dl.
+Xđ khả năng phần cứng, phần mềm có thể khai thác, sd.
+X/d hệ thống CT ứng dụng.
+Mỗi bảng chứa tt về 1 chủ thể xđ gồm n hàng, mỗi hàng chứa các tt về 1 cá thể xđ của chủ thể.
+Mẫu hỏi (Query) dùng để sắp xếp, tìm kiếm và kết xuất dữ liệu x/đ từ 1 / n bảng.
+Biểu mẫu (Form) giúp tạo giao diện thuận tiện cho việc nhập / hiển thị tt.
+Báo cáo (Report) dc thiết kế để định dạng, tính toán, tổng hợp các dl dc chọn và in ra.
+Trường (field) là 1 cột của bảng thể hiện 1 thuộc tính của chủ thể cần qlí.
+Cấu trúc của bảng thể hiện bởi các trường, mỗi trường có tên trường (Field Name), kiểu dl (Data Type), mô tả trường (Description) và các t/c của trường (Field Properties).
+Khóa chính: giá trị của trường x/đ duy nhất mỗi hàng trg bảng.
+Access hiển thị ký hiệu chiếc chìa khoá ở bên trái trường dc chọn để cho biết trường đó được chỉ định làm khoá chính.
+Lọc là 1 công cụ của hqtcsdl cho phép tìm ra ñ bản ghi thỏa mãn 1 số đk nào đó phục vụ tìm kiếm.
+Chức năng tìm kiếm (tìm kiếm và thay thế) trong Access tương tự như trg Word.
+Hiển thị DL trg bảng dưới dạng thuận lợi để xem, nhập và sửa DL.
+Chế độ biểu mẫu là chế độ có giao diện thân thiện đc s/d để cập nhật d/l.
+Dùng mẫu hỏi và lk, ta có thể thống kê dl, nhóm và lựa chọn các bản ghi của n bảng.
+Có 2 chế độ làm việc, đó là chế độ thiết kế và chế độ trang dl.
+Để thực hiện các tính toán và kiểm tra các đk, Access có các công cụ để viết các biểu thức, bao gồm toán hạng và phép toán.
+Mô hình DLQH (gọi tắt là mô hình quan hệ) được E. F. Codd đề xuất năm 1970. 
+Các cột biểu thị các tt của chủ thể và tên cột thường là tên của tt.
+Mỗi hàng biểu thị cho 1 cá thể, gồm 1 bộ các gtrị tương ứng với các cột.
+Các KQ tìm kiếm TT qua truy vấn DL có đc nhờ thực hiện các thao tác trên DL.
+CSDL đc xd dựa trên MHDLQH gọi là CSDL quan hệ.
+Miền để chỉ kiểu d/l của 1 t/t.
+Ko có 2 hàng nào trg 1 bảng tương ứng = nhau trên tất cả các thuộc tính.
+Chọn khoá chính cho bảng = cách để hệ qtcsdl tự động chọn hoặc ta xđ khoá thích hợp trong các khoá của bảng làm khoá chính.
+Tạo lk giữa các bảng bằng cách x/đ các trường chung trg các bảng.
+Sau khi tạo cấu trúc ta có thể nhập dl cho bảng.
+Xoá bản ghi là việc xoá 1 / 1 số bộ của bảng.
+Các bản ghi có thể đc sắp xếp theo nd của 1 / n trường.
+SQL là 1 công cụ mạnh trong các hệ quản trị csdlqh thông dụng hiện nay.
+Dùng các biểu mẫu phức tạp có thể hiển thị các tt có liên quan được kết xuất từ n bảng.
+Thông tin trong 1 báo cáo dc thu thập = cách tập hợp dữ liệu theo các tiêu chí do ng dùng đặt ra.
+Báo cáo đơn giản là d/s một bản ghi, có thể phức tạp hơn.
+Cá nhân đóng vai trò người QTCSDL, ng viết ct ứ/d, ng dùng đầu cuối hệ thống.
+Tùy thuộc vào quy mô, máy tính trung tâm có thể là 1 máy hay 1 dàn máy và có rất nhiều ng dùng.
+Phần mềm yc tài nguyên có thể cài đặt nh máy # nhau.
+Tiếp nhận y/c truy vấn thông tin và xử lí các y/c sau đó gửi kq tới máy khách.
+Nâng cao khả năng thực hiện của CPU: các CPU ở máy chủ và máy khách # nhau có thể cùng chạy //, mỗi CPU thực hiện 1 nv.
+Chi phí cho phần cứng giảm do chỉ cần máy chủ có CH mạnh để lưu trữ và QTDL.
+CSDLPT là ñ hệ thống cho phép ng dùng truy cập 0 chỉ dl đặt tại chỗ mà ñ dl để ở xa.
+Các HCSDLPT cho phép truy cập được DL trong tất cả các đơn vị, DL đc sd n nhất sẽ lưu tại đơn vị sd.
+Là 1 tập hợp dl có liên quan (về mặt logic) dc dùng chung và phân tán về mặt vật lí trên 1 MMT.
+Cấu trúc PTDL thích hợp cho bản chất phân tán của n ng dùng.
+DL có tính ss cao.
+DL đc chia sẻ trên mạng nhưng vẫn cho phép qtdl địa phương (dl đặt tại mỗi trạm).
+Dl có tính tin cậy cao vì khi 1 nút gặp sự cố, có thể khôi phục đc dl tại đây do bản sao của nó có thể được lưu trữ tại một nút khác nữa.
+HT phức tạp hơn vì phải làm ẩn đi sự phân tán DL đối với người dùng.
+Việc bảo mật có thể thực hiện = các giải pháp KT cả phần cứng lẫn phần mềm.
+Tuy nhiên hiệu quả việc bảo mật phụ thuộc rất n vào các chủ trương, chính sách của chủ sở hữu tt và ý thức của ng dùng.
+Ng dùng cần có ý thức coi t/t là 1 tn quan trọng, cần có trách nhiệm cao.
+Đv nhóm ng truy cập cao thì cơ chế nhận dạng có thể phức tạp hơn.
+Các tt quan trọng và nhạy cảm thường đc lưu trữ dưới dạng mã hoá để giảm khả năng rò rỉ. 
+Có n cách mã hoá # nhau, tiêu biểu là nén dl để giảm dung lượng bộ nhớ lưu trữ dl.
+Mã hóa độ dài loạt là 1 cách nén dl khi trg tệp dl có các kí tự đc lặp lại liên tiếp.
+Ngoài mđ giảm dung lượng lưu trữ, nén dl cx góp phần tăng cường tính bảo mật của dl.
+Khi có dl dạng nén, cần bt quy tắc nén mới có dl gốc được.
+Để nâng cao hiệu quả bảo mật, các tham số của ht bv phải thường xuyên dc thay đổi.
+NN lập trình: Là nn dùng để diễn tả thuật toán sao cho máy tính hiểu và thực hiện dc.
+Nn máy: CT viết bằng nn máy có thể nạp trực tiếp vào bộ nhớ và thực hiện ngay.
+Dùng các thuật toán thân thiện để viết c/t thay cho cách lập trình trực tiếp = mã máy.
+CT viết trên n/n lập trình bậc cao phải chuyển đổi thành ct trên n/n máy mới có thể thực hiện đc.
+Là ct đb nhằm chuyển đổi ct viết bằng ngôn ngữ lập trình bậc cao (chương trình nguồn) sang ngôn ngữ máy (chương trình đích).
+CT thông dịch lần lượt dịch và thực hiện từng câu lệnh.
+Mỗi nn lập trình thường có 3 tp cban là: bảng chữ cái, cú pháp, ngữ nghĩa.
+Cú pháp: là bộ quy tắc để viết cht, dựa vào chúng ng lập trình và chương trình dịch biết được tổ hợp nào là ko hợp lệ.
+Ngữ nghĩa: xđ ý/n thao tác cần phải thực hiện, ứng với tổ hợp kí tự dựa vào ngữ cảnh của nó.
+Cú pháp cho biết cách viết 1 ct hợp lệ, ngữ nghĩa xđ ýn của các tổ hợp kí tự trong chương trình.
+Mọi đ/tg trg chương trình đề đc đặt tên theo quy tắc của nn lập trình và từng chương trình dịch cụ thể.
+Là tên đc nn lập trình dùng với ý nghĩa nđ nào đó, tuy nhiên ng lập trình có thể khi báo và dung túng với ý nghĩa và mục đích khác.
+Biến: Là đại lg đc đặt tên, dùng để lưu trữ g/trị và g/trị có thể thay đổi trong QT thực hiện chương trình.
+CT viết = 1 ngôn ngữ lập trình bậc cao thường gồm phần khai báo và phần thân.
+Khi ta sd hàm trg thư viện mà lại quên khai báo nó (VD hàm readkey trong thư viện crt) sẽ gây ra lỗi khi biên dịch.
+Tất cả các biến dùng trg CT đều phải đặt tên và khai báo để CT dịch bt để lưu trữ và xử lý.
+Ng lập trình cần tìm hiểu đặc trưng của các kiểu dl chuẩn đc xđ bởi bộ dịch và sd để khai báo biến.
+Kiểu dl thường là các kiểu dl giới thiệu từ bài trước hoặc là các kiểu dl tự định nghĩa.
+Tương tự trg toán học, trg các ngôn ngữ lập trình đều có ñ phép toán số học như cộng, trừ, nhân, chia, ….
+Trg lập trình, biểu thức số học là 1 biến kiểu số, một hằng, các biến kiểu số, các hằng số lk vs nhau bởi 1 số hữu hạn các phép toán, các dấu ngoặc tròn.
+Để lập trình dễ dàng, các nnlt đều chứa 1 số CT tính gtrị ñ hàm toán học thường dùng. 
+2 biểu thức cùng kiểu lk vs nhau bởi phép toán qh cho ta 1 biểu thức qh.
+Biểu thức logic có thể là các biểu thức logic đơn giản,các biểu thức QH l/k với nhau bởi các phép toán logic.
+Lệnh gán là 1 trong ñ lệnh cb I của các nnlt.
+Cho phép đưa dl từ bàn phím hoặc từ đĩa và gán cho biến, làm cho cht linh hoạt hơn.
+Cấu trúc rẽ nhánh dùng để diễn đạt 1 việc sẽ đc t/h khi 1 đk cụ thể đc thỏa mãn.
+Ct con: Là 1 dãy lệnh mô tả 1 số thao tác nđ và có thể đc thực hiện (được gọi ) từ n vị trí trg ct.
+Phần khai báo có thể có khai báo biến cho dl vào và ra, các hằng và biến dùng trong c/t con.
+Phần thân của ct con là dãy câu lệnh thực hiện để từ ñ dữ liệu vào ta nhận dc dữ liệu ra hay kq mong muốn.
+Thư viện crt chứa các thủ tục liên quan đến việc ql và khai thác màn hình , bàn phím của máy tính.
+TV này chứa các hàm, thủ tục liên quan đến chế độ đồ họa của các loại màn hình # nhau và cho phép thực hiện các thao tác đồ họa cbản như vẽ điểm, đg, tô màu….
+1 ct đồ họa bao giờ cx mở đầu = việc khởi tạo chế độ đồ họa.
+Trg thư viện chuẩn này chứa các hàm sơ cấp và các thủ tục vào/ra mà các ct đều dùng tới.
+Muốn sd thủ tục và hàm chuẩn của tv nào đó (Trừ system) ta phải dùng lệnh khai báo.
